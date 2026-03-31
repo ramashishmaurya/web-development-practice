@@ -1,0 +1,15 @@
+# we are going to write things that we have learned 
+in css inline css  internal external ect 
+block elements - is the elemets occupied whole  width weather it is use or not 
+evry time block statements start form new line correct 
+like we can say that paragraphs is block elements right 
+image is also a block elements right 
+
+# anchor tags is the inline css doesnt take whole size of the browser right 
+# same as with the image as well take the width only that much is required right  sure you can change and updated the height and width fo sure 
+
+# div as the block elements right takes whole width of the window is use to hold the html file to apply some effect correct 
+
+# here is span is inline css correct doent take width of area 
+
+# seo = Search emgine optimization  
