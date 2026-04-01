@@ -8,3 +8,58 @@
 #1{
 text-align: start;
 }
+.w{
+    color: red;
+    background-color: pink;
+}
+/* parents and child relation is here right ul is parents and li is child  */
+ul li{
+   background-color: black;
+}
+ul li  :hover{
+    background-color: yellow;
+}
+ul li:active{
+    background-color: orange;
+}
+.abc{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block ; 
+    display: flex;
+  
+}
+#ab{
+    border: solid black;
+    width: 33.33%;
+}
+#outer{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 2px solid black;
+    margin: 5px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5px;
+}
+.r{
+    height: 100px;
+    width: 200px;
+    background-color:yellow;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5px;
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+.r:hover{
+    background-color: black;
+    border-radius:150px;
+}
