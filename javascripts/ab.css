@@ -1,0 +1,23 @@
+
+.addbtn{
+    color:yered;
+    background-color:red;
+}
+
+
+
+.list-item {
+    display: flex;
+    justify-content: start; /* 👈 creates gap */
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 10px; /* space between items */
+  };
+  
+  .list-item button {
+    margin-left: 15px; /* extra gap from text */
+  } ;
+
+.point{
+   background-color: red
+} ;
