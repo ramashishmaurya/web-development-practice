@@ -12,7 +12,7 @@ changecolor('red' ,1000 ,()=>{
     changecolor('yellow',1000 ,()=>{
         changecolor('blue',1000);
     });
-})
+ })
 
 
 function savedb(data , sucess , failure){
@@ -142,3 +142,10 @@ changecolor('red', 2000)
 .catch((err) => {
     console.log("Error is printing =", err);
 });
+
+
+async function abc(){
+    throw "ashish is the error right  "
+    return "ashish" 
+}
+

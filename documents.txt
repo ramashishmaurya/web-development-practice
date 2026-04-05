@@ -13,3 +13,26 @@ image is also a block elements right
 # here is span is inline css correct doent take width of area 
 
 # seo = Search emgine optimization  
+
+# we started learning the javascripts right we are about to cover the handler and add listener 
+dom manipulation and query Selector and getElement right . 
+
+# new = this command in the javascripts 
+this as work as the object rigth means whichever is running the first that object is object is the this object correct
+p.addEventListener 
+this.style.color = red ; 
+not asking to me that give me object of whom to add the listener 
+-----------------------------
+keyboards event == 
+1- like the mouse there are the keyboard as well right 
+
+# callbacks - when someaction is performed that time to perform somethings 
+
+like if the button is clicked ---- perform the some action 
+btn.addEventListener('click' ,()=>{
+    console.log('like button is clicked than performed right ')
+})
+
+# promises 
+excute the databases one exicute than anothr 
+
